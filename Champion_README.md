@@ -11,7 +11,7 @@ This repository contains my **Induction Certificate** issued by **Champion Group
 
 ## 📜 Certificate
 
-![Induction Certificate](images/champion-induction-certificate.png) 
+(Champion_Certificates.jpg)
 ## 💼 Organization
 
 **Champion Infometric Pvt. Ltd.**  
