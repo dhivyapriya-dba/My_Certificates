@@ -10,7 +10,7 @@ This repository contains my **Java, HTML, CSS, and SQL Programming Certificate**
 
 ## 📜 Certificate
 
-![Certificate](images/jspider-certificate.png) <!-- Replace with your actual image file path -->
+![Certificate](jspider_certificate.jpg) <!-- Replace with your actual image file path -->
 
 ## 🔗 Related Skills
 
